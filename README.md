@@ -19,6 +19,8 @@ II. KULLANIM KOLAYLIĞI
 A. Şablon Seçimi 
 Bu proje için seçilen şablon,modern bir tasarım anlayışını 
 yansıtmakta ve aşağıdaki kriterleri sağlamaktadır. 
+
+
 Responsive tasarım : Web sitesi,masaüstü,tablet ve 
 mobil cihazlarda sorunsuz bir şekilde çalışacak şekilde 
 tasarlanmıştır.Bu,tüm kullanıcıların farklı cihazlardan siteye 
