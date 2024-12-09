@@ -4,6 +4,7 @@ amaçlamaktadır.Kullanıcı dostu tasarımı ve modern
 arayüzüyle , kullanıcıların kolayca ürünlere erişmesini sağlar. 
 Anahtar Kelimeler—fırın , dünya mutfakları , kullanıcı 
 deneyimi , tasarım 
+
 #I. GİRİŞ 
 Bu proje,farklı dünya mutfaklarından lezzetleri bir araya 
 getiren ve kullanıcıların kolayca sipariş verebileceği bir web 
